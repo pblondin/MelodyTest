@@ -6,13 +6,13 @@
 //  Copyright © 2016 Philippe Blondin. All rights reserved.
 //
 
-#import "ViewController.h"
+#import "MelodyRootViewController.h"
 
-@interface ViewController ()
+@interface MelodyRootViewController ()
 
 @end
 
-@implementation ViewController
+@implementation MelodyRootViewController
 
 - (void)viewDidLoad {
     [super viewDidLoad];

@@ -10,13 +10,11 @@
 		60EDB6D89ECF48A9B0C66A8F /* libPods-MelodyTestDebug.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 66D005C0A85F1DB05689F9B8 /* libPods-MelodyTestDebug.a */; };
 		B80431B81C405434005661E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431B71C405434005661E6 /* main.m */; };
 		B80431BB1C405434005661E6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431BA1C405434005661E6 /* AppDelegate.m */; };
-		B80431BE1C405434005661E6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431BD1C405434005661E6 /* ViewController.m */; };
 		B80431C11C405434005661E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80431BF1C405434005661E6 /* Main.storyboard */; };
 		B80431C31C405434005661E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B80431C21C405434005661E6 /* Assets.xcassets */; };
 		B80431C61C405434005661E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80431C41C405434005661E6 /* LaunchScreen.storyboard */; };
 		B80431D11C405434005661E6 /* MelodyTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431D01C405434005661E6 /* MelodyTestTests.m */; };
 		B80431DC1C405434005661E6 /* MelodyTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431DB1C405434005661E6 /* MelodyTestUITests.m */; };
-		B80431EB1C4054AE005661E6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431BD1C405434005661E6 /* ViewController.m */; };
 		B80431EC1C4054AE005661E6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431BA1C405434005661E6 /* AppDelegate.m */; };
 		B80431ED1C4054AE005661E6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B80431B71C405434005661E6 /* main.m */; };
 		B80431F01C4054AE005661E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80431C41C405434005661E6 /* LaunchScreen.storyboard */; };
@@ -58,6 +56,10 @@
 		B80432231C4057CB005661E6 /* sound9.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432011C4057CB005661E6 /* sound9.caf */; };
 		B80432241C4057CB005661E6 /* sound9.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432011C4057CB005661E6 /* sound9.caf */; };
 		B80432251C4057CB005661E6 /* sound9.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432011C4057CB005661E6 /* sound9.caf */; };
+		B88C7ABC1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
+		B88C7ABD1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
+		B88C7ABE1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
+		B88C7ABF1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
 		DFB8F22923A959466D9E749D /* libPods-MelodyTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */; };
 /* End PBXBuildFile section */
 
@@ -87,8 +89,6 @@
 		B80431B71C405434005661E6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B80431B91C405434005661E6 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		B80431BA1C405434005661E6 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		B80431BC1C405434005661E6 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		B80431BD1C405434005661E6 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		B80431C01C405434005661E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B80431C21C405434005661E6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B80431C51C405434005661E6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -110,6 +110,8 @@
 		B80431FF1C4057CB005661E6 /* sound7.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound7.caf; sourceTree = "<group>"; };
 		B80432001C4057CB005661E6 /* sound8.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound8.caf; sourceTree = "<group>"; };
 		B80432011C4057CB005661E6 /* sound9.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound9.caf; sourceTree = "<group>"; };
+		B88C7ABA1C405BDA0072D5BB /* MelodyRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodyRootViewController.h; sourceTree = "<group>"; };
+		B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodyRootViewController.m; sourceTree = "<group>"; };
 		EE3F9A45049AFB87F967B9A0 /* Pods-MelodyTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MelodyTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MelodyTest/Pods-MelodyTest.debug.xcconfig"; sourceTree = "<group>"; };
 		F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MelodyTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -183,13 +185,14 @@
 		B80431B51C405434005661E6 /* MelodyTest */ = {
 			isa = PBXGroup;
 			children = (
-				B80431B91C405434005661E6 /* AppDelegate.h */,
-				B80431BA1C405434005661E6 /* AppDelegate.m */,
-				B80431BC1C405434005661E6 /* ViewController.h */,
-				B80431BD1C405434005661E6 /* ViewController.m */,
+				B80431C41C405434005661E6 /* LaunchScreen.storyboard */,
 				B80431BF1C405434005661E6 /* Main.storyboard */,
 				B80431C21C405434005661E6 /* Assets.xcassets */,
-				B80431C41C405434005661E6 /* LaunchScreen.storyboard */,
+				B88C7AB51C405BC00072D5BB /* Controllers */,
+				B88C7AB61C405BC00072D5BB /* Helpers */,
+				B88C7AB71C405BC00072D5BB /* Model */,
+				B88C7AB81C405BC00072D5BB /* Vendors */,
+				B88C7AB91C405BC00072D5BB /* Views */,
 				B80431B61C405434005661E6 /* Supporting Files */,
 			);
 			path = MelodyTest;
@@ -198,6 +201,8 @@
 		B80431B61C405434005661E6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B80431B91C405434005661E6 /* AppDelegate.h */,
+				B80431BA1C405434005661E6 /* AppDelegate.m */,
 				B80431F81C4057CB005661E6 /* SoundsiOS */,
 				B80431C71C405434005661E6 /* MelodyTest.plist */,
 				B80431F71C4054AE005661E6 /* MelodyTestDebug.plist */,
@@ -238,6 +243,43 @@
 				B80432011C4057CB005661E6 /* sound9.caf */,
 			);
 			path = SoundsiOS;
+			sourceTree = "<group>";
+		};
+		B88C7AB51C405BC00072D5BB /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				B88C7ABA1C405BDA0072D5BB /* MelodyRootViewController.h */,
+				B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		B88C7AB61C405BC00072D5BB /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		B88C7AB71C405BC00072D5BB /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		B88C7AB81C405BC00072D5BB /* Vendors */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Vendors;
+			sourceTree = "<group>";
+		};
+		B88C7AB91C405BC00072D5BB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Views;
 			sourceTree = "<group>";
 		};
 		CC535D45AAF85C0C2B102AF2 /* Pods */ = {
@@ -512,9 +554,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B80431BE1C405434005661E6 /* ViewController.m in Sources */,
 				B80431BB1C405434005661E6 /* AppDelegate.m in Sources */,
 				B80431B81C405434005661E6 /* main.m in Sources */,
+				B88C7ABC1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -522,6 +564,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B88C7ABE1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 				B80431D11C405434005661E6 /* MelodyTestTests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -530,6 +573,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B88C7ABF1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 				B80431DC1C405434005661E6 /* MelodyTestUITests.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -538,9 +582,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B80431EB1C4054AE005661E6 /* ViewController.m in Sources */,
 				B80431EC1C4054AE005661E6 /* AppDelegate.m in Sources */,
 				B80431ED1C4054AE005661E6 /* main.m in Sources */,
+				B88C7ABD1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -664,6 +708,7 @@
 			baseConfigurationReference = EE3F9A45049AFB87F967B9A0 /* Pods-MelodyTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = MelodyTest/MelodyTest.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
@@ -676,6 +721,7 @@
 			baseConfigurationReference = 21D13C617DABA63CB21BBFD2 /* Pods-MelodyTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = MelodyTest/MelodyTest.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
@@ -736,6 +782,7 @@
 			baseConfigurationReference = A2312DD7EA3FB90E16117F50 /* Pods-MelodyTestDebug.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets-2";
 				INFOPLIST_FILE = MelodyTestDebug.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
@@ -748,6 +795,7 @@
 			baseConfigurationReference = 73DAF6375C04A1DC7576EC66 /* Pods-MelodyTestDebug.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets-2";
 				INFOPLIST_FILE = MelodyTestDebug.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
