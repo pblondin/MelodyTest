@@ -708,7 +708,6 @@
 			baseConfigurationReference = EE3F9A45049AFB87F967B9A0 /* Pods-MelodyTest.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = MelodyTest/MelodyTest.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
@@ -721,7 +720,6 @@
 			baseConfigurationReference = 21D13C617DABA63CB21BBFD2 /* Pods-MelodyTest.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets";
 				INFOPLIST_FILE = MelodyTest/MelodyTest.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
@@ -782,7 +780,6 @@
 			baseConfigurationReference = A2312DD7EA3FB90E16117F50 /* Pods-MelodyTestDebug.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets-2";
 				INFOPLIST_FILE = MelodyTestDebug.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
@@ -795,7 +792,6 @@
 			baseConfigurationReference = 73DAF6375C04A1DC7576EC66 /* Pods-MelodyTestDebug.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = "Brand Assets-2";
 				INFOPLIST_FILE = MelodyTestDebug.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = ca.philippeblondin.MelodyTest;
