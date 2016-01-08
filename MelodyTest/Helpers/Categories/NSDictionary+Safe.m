@@ -3,7 +3,7 @@
 //  MelodyTest
 //
 //  Created by Philippe Blondin on 2015-10-02.
-//  Copyright © 2015 E-180 Inc. All rights reserved.
+//  Copyright © 2016 Philippe Blondin. All rights reserved.
 //
 
 #import "NSDictionary+Safe.h"

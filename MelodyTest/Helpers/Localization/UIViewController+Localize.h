@@ -3,7 +3,7 @@
 //  core app
 //
 //  Created by Philippe Blondin on 2015-03-16.
-//  Copyright (c) 2015 E-180 Inc. All rights reserved.
+//  Copyright (c) 2016 Philippe Blondin. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
