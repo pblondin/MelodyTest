@@ -22,6 +22,42 @@
 		B80431F01C4054AE005661E6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80431C41C405434005661E6 /* LaunchScreen.storyboard */; };
 		B80431F11C4054AE005661E6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B80431C21C405434005661E6 /* Assets.xcassets */; };
 		B80431F21C4054AE005661E6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B80431BF1C405434005661E6 /* Main.storyboard */; };
+		B80432021C4057CB005661E6 /* sound10.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431F91C4057CB005661E6 /* sound10.caf */; };
+		B80432031C4057CB005661E6 /* sound10.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431F91C4057CB005661E6 /* sound10.caf */; };
+		B80432041C4057CB005661E6 /* sound10.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431F91C4057CB005661E6 /* sound10.caf */; };
+		B80432051C4057CB005661E6 /* sound10.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431F91C4057CB005661E6 /* sound10.caf */; };
+		B80432061C4057CB005661E6 /* sound2.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FA1C4057CB005661E6 /* sound2.caf */; };
+		B80432071C4057CB005661E6 /* sound2.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FA1C4057CB005661E6 /* sound2.caf */; };
+		B80432081C4057CB005661E6 /* sound2.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FA1C4057CB005661E6 /* sound2.caf */; };
+		B80432091C4057CB005661E6 /* sound2.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FA1C4057CB005661E6 /* sound2.caf */; };
+		B804320A1C4057CB005661E6 /* sound3.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FB1C4057CB005661E6 /* sound3.caf */; };
+		B804320B1C4057CB005661E6 /* sound3.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FB1C4057CB005661E6 /* sound3.caf */; };
+		B804320C1C4057CB005661E6 /* sound3.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FB1C4057CB005661E6 /* sound3.caf */; };
+		B804320D1C4057CB005661E6 /* sound3.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FB1C4057CB005661E6 /* sound3.caf */; };
+		B804320E1C4057CB005661E6 /* sound4.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FC1C4057CB005661E6 /* sound4.caf */; };
+		B804320F1C4057CB005661E6 /* sound4.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FC1C4057CB005661E6 /* sound4.caf */; };
+		B80432101C4057CB005661E6 /* sound4.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FC1C4057CB005661E6 /* sound4.caf */; };
+		B80432111C4057CB005661E6 /* sound4.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FC1C4057CB005661E6 /* sound4.caf */; };
+		B80432121C4057CB005661E6 /* sound5.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FD1C4057CB005661E6 /* sound5.caf */; };
+		B80432131C4057CB005661E6 /* sound5.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FD1C4057CB005661E6 /* sound5.caf */; };
+		B80432141C4057CB005661E6 /* sound5.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FD1C4057CB005661E6 /* sound5.caf */; };
+		B80432151C4057CB005661E6 /* sound5.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FD1C4057CB005661E6 /* sound5.caf */; };
+		B80432161C4057CB005661E6 /* sound6.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FE1C4057CB005661E6 /* sound6.caf */; };
+		B80432171C4057CB005661E6 /* sound6.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FE1C4057CB005661E6 /* sound6.caf */; };
+		B80432181C4057CB005661E6 /* sound6.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FE1C4057CB005661E6 /* sound6.caf */; };
+		B80432191C4057CB005661E6 /* sound6.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FE1C4057CB005661E6 /* sound6.caf */; };
+		B804321A1C4057CB005661E6 /* sound7.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FF1C4057CB005661E6 /* sound7.caf */; };
+		B804321B1C4057CB005661E6 /* sound7.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FF1C4057CB005661E6 /* sound7.caf */; };
+		B804321C1C4057CB005661E6 /* sound7.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FF1C4057CB005661E6 /* sound7.caf */; };
+		B804321D1C4057CB005661E6 /* sound7.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80431FF1C4057CB005661E6 /* sound7.caf */; };
+		B804321E1C4057CB005661E6 /* sound8.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432001C4057CB005661E6 /* sound8.caf */; };
+		B804321F1C4057CB005661E6 /* sound8.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432001C4057CB005661E6 /* sound8.caf */; };
+		B80432201C4057CB005661E6 /* sound8.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432001C4057CB005661E6 /* sound8.caf */; };
+		B80432211C4057CB005661E6 /* sound8.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432001C4057CB005661E6 /* sound8.caf */; };
+		B80432221C4057CB005661E6 /* sound9.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432011C4057CB005661E6 /* sound9.caf */; };
+		B80432231C4057CB005661E6 /* sound9.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432011C4057CB005661E6 /* sound9.caf */; };
+		B80432241C4057CB005661E6 /* sound9.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432011C4057CB005661E6 /* sound9.caf */; };
+		B80432251C4057CB005661E6 /* sound9.caf in Resources */ = {isa = PBXBuildFile; fileRef = B80432011C4057CB005661E6 /* sound9.caf */; };
 		DFB8F22923A959466D9E749D /* libPods-MelodyTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */; };
 /* End PBXBuildFile section */
 
@@ -65,6 +101,15 @@
 		B80431DD1C405434005661E6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B80431F61C4054AE005661E6 /* MelodyTestDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MelodyTestDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B80431F71C4054AE005661E6 /* MelodyTestDebug.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = MelodyTestDebug.plist; path = "/Users/pblondin/Google Drive/Developper/ipnos/MelodyTest/MelodyTestDebug.plist"; sourceTree = "<absolute>"; };
+		B80431F91C4057CB005661E6 /* sound10.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound10.caf; sourceTree = "<group>"; };
+		B80431FA1C4057CB005661E6 /* sound2.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound2.caf; sourceTree = "<group>"; };
+		B80431FB1C4057CB005661E6 /* sound3.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound3.caf; sourceTree = "<group>"; };
+		B80431FC1C4057CB005661E6 /* sound4.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound4.caf; sourceTree = "<group>"; };
+		B80431FD1C4057CB005661E6 /* sound5.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound5.caf; sourceTree = "<group>"; };
+		B80431FE1C4057CB005661E6 /* sound6.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound6.caf; sourceTree = "<group>"; };
+		B80431FF1C4057CB005661E6 /* sound7.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound7.caf; sourceTree = "<group>"; };
+		B80432001C4057CB005661E6 /* sound8.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound8.caf; sourceTree = "<group>"; };
+		B80432011C4057CB005661E6 /* sound9.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound9.caf; sourceTree = "<group>"; };
 		EE3F9A45049AFB87F967B9A0 /* Pods-MelodyTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MelodyTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MelodyTest/Pods-MelodyTest.debug.xcconfig"; sourceTree = "<group>"; };
 		F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MelodyTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -153,6 +198,7 @@
 		B80431B61C405434005661E6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				B80431F81C4057CB005661E6 /* SoundsiOS */,
 				B80431C71C405434005661E6 /* MelodyTest.plist */,
 				B80431F71C4054AE005661E6 /* MelodyTestDebug.plist */,
 				B80431B71C405434005661E6 /* main.m */,
@@ -176,6 +222,22 @@
 				B80431DD1C405434005661E6 /* Info.plist */,
 			);
 			path = MelodyTestUITests;
+			sourceTree = "<group>";
+		};
+		B80431F81C4057CB005661E6 /* SoundsiOS */ = {
+			isa = PBXGroup;
+			children = (
+				B80431F91C4057CB005661E6 /* sound10.caf */,
+				B80431FA1C4057CB005661E6 /* sound2.caf */,
+				B80431FB1C4057CB005661E6 /* sound3.caf */,
+				B80431FC1C4057CB005661E6 /* sound4.caf */,
+				B80431FD1C4057CB005661E6 /* sound5.caf */,
+				B80431FE1C4057CB005661E6 /* sound6.caf */,
+				B80431FF1C4057CB005661E6 /* sound7.caf */,
+				B80432001C4057CB005661E6 /* sound8.caf */,
+				B80432011C4057CB005661E6 /* sound9.caf */,
+			);
+			path = SoundsiOS;
 			sourceTree = "<group>";
 		};
 		CC535D45AAF85C0C2B102AF2 /* Pods */ = {
@@ -314,7 +376,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B804321A1C4057CB005661E6 /* sound7.caf in Resources */,
+				B80432121C4057CB005661E6 /* sound5.caf in Resources */,
+				B80432061C4057CB005661E6 /* sound2.caf in Resources */,
+				B80432161C4057CB005661E6 /* sound6.caf in Resources */,
+				B804320E1C4057CB005661E6 /* sound4.caf in Resources */,
 				B80431C61C405434005661E6 /* LaunchScreen.storyboard in Resources */,
+				B804320A1C4057CB005661E6 /* sound3.caf in Resources */,
+				B804321E1C4057CB005661E6 /* sound8.caf in Resources */,
+				B80432221C4057CB005661E6 /* sound9.caf in Resources */,
+				B80432021C4057CB005661E6 /* sound10.caf in Resources */,
 				B80431C31C405434005661E6 /* Assets.xcassets in Resources */,
 				B80431C11C405434005661E6 /* Main.storyboard in Resources */,
 			);
@@ -324,6 +395,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B80432141C4057CB005661E6 /* sound5.caf in Resources */,
+				B80432041C4057CB005661E6 /* sound10.caf in Resources */,
+				B80432081C4057CB005661E6 /* sound2.caf in Resources */,
+				B80432201C4057CB005661E6 /* sound8.caf in Resources */,
+				B804320C1C4057CB005661E6 /* sound3.caf in Resources */,
+				B80432101C4057CB005661E6 /* sound4.caf in Resources */,
+				B804321C1C4057CB005661E6 /* sound7.caf in Resources */,
+				B80432181C4057CB005661E6 /* sound6.caf in Resources */,
+				B80432241C4057CB005661E6 /* sound9.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -331,6 +411,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B80432151C4057CB005661E6 /* sound5.caf in Resources */,
+				B80432051C4057CB005661E6 /* sound10.caf in Resources */,
+				B80432091C4057CB005661E6 /* sound2.caf in Resources */,
+				B80432211C4057CB005661E6 /* sound8.caf in Resources */,
+				B804320D1C4057CB005661E6 /* sound3.caf in Resources */,
+				B80432111C4057CB005661E6 /* sound4.caf in Resources */,
+				B804321D1C4057CB005661E6 /* sound7.caf in Resources */,
+				B80432191C4057CB005661E6 /* sound6.caf in Resources */,
+				B80432251C4057CB005661E6 /* sound9.caf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -338,7 +427,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B804321B1C4057CB005661E6 /* sound7.caf in Resources */,
+				B80432131C4057CB005661E6 /* sound5.caf in Resources */,
+				B80432071C4057CB005661E6 /* sound2.caf in Resources */,
+				B80432171C4057CB005661E6 /* sound6.caf in Resources */,
+				B804320F1C4057CB005661E6 /* sound4.caf in Resources */,
 				B80431F01C4054AE005661E6 /* LaunchScreen.storyboard in Resources */,
+				B804320B1C4057CB005661E6 /* sound3.caf in Resources */,
+				B804321F1C4057CB005661E6 /* sound8.caf in Resources */,
+				B80432231C4057CB005661E6 /* sound9.caf in Resources */,
+				B80432031C4057CB005661E6 /* sound10.caf in Resources */,
 				B80431F11C4054AE005661E6 /* Assets.xcassets in Resources */,
 				B80431F21C4054AE005661E6 /* Main.storyboard in Resources */,
 			);
