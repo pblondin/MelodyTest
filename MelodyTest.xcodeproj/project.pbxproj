@@ -60,6 +60,50 @@
 		B88C7ABD1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
 		B88C7ABE1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
 		B88C7ABF1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
+		B88C7AD91C405E980072D5BB /* NSDictionary+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC21C405E980072D5BB /* NSDictionary+Safe.m */; };
+		B88C7ADA1C405E980072D5BB /* NSDictionary+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC21C405E980072D5BB /* NSDictionary+Safe.m */; };
+		B88C7ADB1C405E980072D5BB /* NSDictionary+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC21C405E980072D5BB /* NSDictionary+Safe.m */; };
+		B88C7ADC1C405E980072D5BB /* NSDictionary+Safe.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC21C405E980072D5BB /* NSDictionary+Safe.m */; };
+		B88C7ADD1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC41C405E980072D5BB /* UIApplication+AppVersion.m */; };
+		B88C7ADE1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC41C405E980072D5BB /* UIApplication+AppVersion.m */; };
+		B88C7ADF1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC41C405E980072D5BB /* UIApplication+AppVersion.m */; };
+		B88C7AE01C405E980072D5BB /* UIApplication+AppVersion.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC41C405E980072D5BB /* UIApplication+AppVersion.m */; };
+		B88C7AE11C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC61C405E980072D5BB /* UIColor+MelodyThemeColor.m */; };
+		B88C7AE21C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC61C405E980072D5BB /* UIColor+MelodyThemeColor.m */; };
+		B88C7AE31C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC61C405E980072D5BB /* UIColor+MelodyThemeColor.m */; };
+		B88C7AE41C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC61C405E980072D5BB /* UIColor+MelodyThemeColor.m */; };
+		B88C7AE51C405E980072D5BB /* UIStoryboard+Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC81C405E980072D5BB /* UIStoryboard+Melody.m */; };
+		B88C7AE61C405E980072D5BB /* UIStoryboard+Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC81C405E980072D5BB /* UIStoryboard+Melody.m */; };
+		B88C7AE71C405E980072D5BB /* UIStoryboard+Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC81C405E980072D5BB /* UIStoryboard+Melody.m */; };
+		B88C7AE81C405E980072D5BB /* UIStoryboard+Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AC81C405E980072D5BB /* UIStoryboard+Melody.m */; };
+		B88C7AE91C405E980072D5BB /* UIBarItem+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACB1C405E980072D5BB /* UIBarItem+Localize.m */; };
+		B88C7AEA1C405E980072D5BB /* UIBarItem+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACB1C405E980072D5BB /* UIBarItem+Localize.m */; };
+		B88C7AEB1C405E980072D5BB /* UIBarItem+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACB1C405E980072D5BB /* UIBarItem+Localize.m */; };
+		B88C7AEC1C405E980072D5BB /* UIBarItem+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACB1C405E980072D5BB /* UIBarItem+Localize.m */; };
+		B88C7AED1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACD1C405E980072D5BB /* UILocalizedBarButtonItem.m */; };
+		B88C7AEE1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACD1C405E980072D5BB /* UILocalizedBarButtonItem.m */; };
+		B88C7AEF1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACD1C405E980072D5BB /* UILocalizedBarButtonItem.m */; };
+		B88C7AF01C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACD1C405E980072D5BB /* UILocalizedBarButtonItem.m */; };
+		B88C7AF11C405E980072D5BB /* UILocalizedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACF1C405E980072D5BB /* UILocalizedButton.m */; };
+		B88C7AF21C405E980072D5BB /* UILocalizedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACF1C405E980072D5BB /* UILocalizedButton.m */; };
+		B88C7AF31C405E980072D5BB /* UILocalizedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACF1C405E980072D5BB /* UILocalizedButton.m */; };
+		B88C7AF41C405E980072D5BB /* UILocalizedButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ACF1C405E980072D5BB /* UILocalizedButton.m */; };
+		B88C7AF51C405E980072D5BB /* UILocalizedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD11C405E980072D5BB /* UILocalizedLabel.m */; };
+		B88C7AF61C405E980072D5BB /* UILocalizedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD11C405E980072D5BB /* UILocalizedLabel.m */; };
+		B88C7AF71C405E980072D5BB /* UILocalizedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD11C405E980072D5BB /* UILocalizedLabel.m */; };
+		B88C7AF81C405E980072D5BB /* UILocalizedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD11C405E980072D5BB /* UILocalizedLabel.m */; };
+		B88C7AF91C405E980072D5BB /* UILocalizedTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD31C405E980072D5BB /* UILocalizedTextField.m */; };
+		B88C7AFA1C405E980072D5BB /* UILocalizedTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD31C405E980072D5BB /* UILocalizedTextField.m */; };
+		B88C7AFB1C405E980072D5BB /* UILocalizedTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD31C405E980072D5BB /* UILocalizedTextField.m */; };
+		B88C7AFC1C405E980072D5BB /* UILocalizedTextField.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD31C405E980072D5BB /* UILocalizedTextField.m */; };
+		B88C7AFD1C405E980072D5BB /* UIView+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD51C405E980072D5BB /* UIView+Localize.m */; };
+		B88C7AFE1C405E980072D5BB /* UIView+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD51C405E980072D5BB /* UIView+Localize.m */; };
+		B88C7AFF1C405E980072D5BB /* UIView+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD51C405E980072D5BB /* UIView+Localize.m */; };
+		B88C7B001C405E980072D5BB /* UIView+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD51C405E980072D5BB /* UIView+Localize.m */; };
+		B88C7B011C405E980072D5BB /* UIViewController+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD71C405E980072D5BB /* UIViewController+Localize.m */; };
+		B88C7B021C405E980072D5BB /* UIViewController+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD71C405E980072D5BB /* UIViewController+Localize.m */; };
+		B88C7B031C405E980072D5BB /* UIViewController+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD71C405E980072D5BB /* UIViewController+Localize.m */; };
+		B88C7B041C405E980072D5BB /* UIViewController+Localize.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7AD71C405E980072D5BB /* UIViewController+Localize.m */; };
 		DFB8F22923A959466D9E749D /* libPods-MelodyTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */; };
 /* End PBXBuildFile section */
 
@@ -112,6 +156,28 @@
 		B80432011C4057CB005661E6 /* sound9.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound9.caf; sourceTree = "<group>"; };
 		B88C7ABA1C405BDA0072D5BB /* MelodyRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodyRootViewController.h; sourceTree = "<group>"; };
 		B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodyRootViewController.m; sourceTree = "<group>"; };
+		B88C7AC11C405E980072D5BB /* NSDictionary+Safe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+Safe.h"; sourceTree = "<group>"; };
+		B88C7AC21C405E980072D5BB /* NSDictionary+Safe.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+Safe.m"; sourceTree = "<group>"; };
+		B88C7AC31C405E980072D5BB /* UIApplication+AppVersion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIApplication+AppVersion.h"; sourceTree = "<group>"; };
+		B88C7AC41C405E980072D5BB /* UIApplication+AppVersion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIApplication+AppVersion.m"; sourceTree = "<group>"; };
+		B88C7AC51C405E980072D5BB /* UIColor+MelodyThemeColor.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIColor+MelodyThemeColor.h"; sourceTree = "<group>"; };
+		B88C7AC61C405E980072D5BB /* UIColor+MelodyThemeColor.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIColor+MelodyThemeColor.m"; sourceTree = "<group>"; };
+		B88C7AC71C405E980072D5BB /* UIStoryboard+Melody.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIStoryboard+Melody.h"; sourceTree = "<group>"; };
+		B88C7AC81C405E980072D5BB /* UIStoryboard+Melody.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIStoryboard+Melody.m"; sourceTree = "<group>"; };
+		B88C7ACA1C405E980072D5BB /* UIBarItem+Localize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIBarItem+Localize.h"; sourceTree = "<group>"; };
+		B88C7ACB1C405E980072D5BB /* UIBarItem+Localize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIBarItem+Localize.m"; sourceTree = "<group>"; };
+		B88C7ACC1C405E980072D5BB /* UILocalizedBarButtonItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UILocalizedBarButtonItem.h; sourceTree = "<group>"; };
+		B88C7ACD1C405E980072D5BB /* UILocalizedBarButtonItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UILocalizedBarButtonItem.m; sourceTree = "<group>"; };
+		B88C7ACE1C405E980072D5BB /* UILocalizedButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UILocalizedButton.h; sourceTree = "<group>"; };
+		B88C7ACF1C405E980072D5BB /* UILocalizedButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UILocalizedButton.m; sourceTree = "<group>"; };
+		B88C7AD01C405E980072D5BB /* UILocalizedLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UILocalizedLabel.h; sourceTree = "<group>"; };
+		B88C7AD11C405E980072D5BB /* UILocalizedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UILocalizedLabel.m; sourceTree = "<group>"; };
+		B88C7AD21C405E980072D5BB /* UILocalizedTextField.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UILocalizedTextField.h; sourceTree = "<group>"; };
+		B88C7AD31C405E980072D5BB /* UILocalizedTextField.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UILocalizedTextField.m; sourceTree = "<group>"; };
+		B88C7AD41C405E980072D5BB /* UIView+Localize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+Localize.h"; sourceTree = "<group>"; };
+		B88C7AD51C405E980072D5BB /* UIView+Localize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+Localize.m"; sourceTree = "<group>"; };
+		B88C7AD61C405E980072D5BB /* UIViewController+Localize.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+Localize.h"; sourceTree = "<group>"; };
+		B88C7AD71C405E980072D5BB /* UIViewController+Localize.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Localize.m"; sourceTree = "<group>"; };
 		EE3F9A45049AFB87F967B9A0 /* Pods-MelodyTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MelodyTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MelodyTest/Pods-MelodyTest.debug.xcconfig"; sourceTree = "<group>"; };
 		F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MelodyTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -257,6 +323,9 @@
 		B88C7AB61C405BC00072D5BB /* Helpers */ = {
 			isa = PBXGroup;
 			children = (
+				B88C7AC01C405E980072D5BB /* Categories */,
+				B88C7AC91C405E980072D5BB /* Localization */,
+				B88C7AD81C405E980072D5BB /* Singletons */,
 			);
 			path = Helpers;
 			sourceTree = "<group>";
@@ -280,6 +349,49 @@
 			children = (
 			);
 			path = Views;
+			sourceTree = "<group>";
+		};
+		B88C7AC01C405E980072D5BB /* Categories */ = {
+			isa = PBXGroup;
+			children = (
+				B88C7AC11C405E980072D5BB /* NSDictionary+Safe.h */,
+				B88C7AC21C405E980072D5BB /* NSDictionary+Safe.m */,
+				B88C7AC31C405E980072D5BB /* UIApplication+AppVersion.h */,
+				B88C7AC41C405E980072D5BB /* UIApplication+AppVersion.m */,
+				B88C7AC51C405E980072D5BB /* UIColor+MelodyThemeColor.h */,
+				B88C7AC61C405E980072D5BB /* UIColor+MelodyThemeColor.m */,
+				B88C7AC71C405E980072D5BB /* UIStoryboard+Melody.h */,
+				B88C7AC81C405E980072D5BB /* UIStoryboard+Melody.m */,
+			);
+			path = Categories;
+			sourceTree = "<group>";
+		};
+		B88C7AC91C405E980072D5BB /* Localization */ = {
+			isa = PBXGroup;
+			children = (
+				B88C7ACA1C405E980072D5BB /* UIBarItem+Localize.h */,
+				B88C7ACB1C405E980072D5BB /* UIBarItem+Localize.m */,
+				B88C7ACC1C405E980072D5BB /* UILocalizedBarButtonItem.h */,
+				B88C7ACD1C405E980072D5BB /* UILocalizedBarButtonItem.m */,
+				B88C7ACE1C405E980072D5BB /* UILocalizedButton.h */,
+				B88C7ACF1C405E980072D5BB /* UILocalizedButton.m */,
+				B88C7AD01C405E980072D5BB /* UILocalizedLabel.h */,
+				B88C7AD11C405E980072D5BB /* UILocalizedLabel.m */,
+				B88C7AD21C405E980072D5BB /* UILocalizedTextField.h */,
+				B88C7AD31C405E980072D5BB /* UILocalizedTextField.m */,
+				B88C7AD41C405E980072D5BB /* UIView+Localize.h */,
+				B88C7AD51C405E980072D5BB /* UIView+Localize.m */,
+				B88C7AD61C405E980072D5BB /* UIViewController+Localize.h */,
+				B88C7AD71C405E980072D5BB /* UIViewController+Localize.m */,
+			);
+			path = Localization;
+			sourceTree = "<group>";
+		};
+		B88C7AD81C405E980072D5BB /* Singletons */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Singletons;
 			sourceTree = "<group>";
 		};
 		CC535D45AAF85C0C2B102AF2 /* Pods */ = {
@@ -556,7 +668,18 @@
 			files = (
 				B80431BB1C405434005661E6 /* AppDelegate.m in Sources */,
 				B80431B81C405434005661E6 /* main.m in Sources */,
+				B88C7AFD1C405E980072D5BB /* UIView+Localize.m in Sources */,
+				B88C7ADD1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
+				B88C7AF91C405E980072D5BB /* UILocalizedTextField.m in Sources */,
+				B88C7AE51C405E980072D5BB /* UIStoryboard+Melody.m in Sources */,
+				B88C7AE11C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
 				B88C7ABC1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
+				B88C7AF51C405E980072D5BB /* UILocalizedLabel.m in Sources */,
+				B88C7AD91C405E980072D5BB /* NSDictionary+Safe.m in Sources */,
+				B88C7AED1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
+				B88C7B011C405E980072D5BB /* UIViewController+Localize.m in Sources */,
+				B88C7AE91C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
+				B88C7AF11C405E980072D5BB /* UILocalizedButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -564,8 +687,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B88C7AF71C405E980072D5BB /* UILocalizedLabel.m in Sources */,
+				B88C7AF31C405E980072D5BB /* UILocalizedButton.m in Sources */,
 				B88C7ABE1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
+				B88C7AFF1C405E980072D5BB /* UIView+Localize.m in Sources */,
+				B88C7B031C405E980072D5BB /* UIViewController+Localize.m in Sources */,
+				B88C7ADF1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
+				B88C7AEF1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
+				B88C7AFB1C405E980072D5BB /* UILocalizedTextField.m in Sources */,
+				B88C7AE31C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
+				B88C7AEB1C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
 				B80431D11C405434005661E6 /* MelodyTestTests.m in Sources */,
+				B88C7AE71C405E980072D5BB /* UIStoryboard+Melody.m in Sources */,
+				B88C7ADB1C405E980072D5BB /* NSDictionary+Safe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -573,8 +707,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B88C7AF81C405E980072D5BB /* UILocalizedLabel.m in Sources */,
+				B88C7AF41C405E980072D5BB /* UILocalizedButton.m in Sources */,
 				B88C7ABF1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
+				B88C7B001C405E980072D5BB /* UIView+Localize.m in Sources */,
+				B88C7B041C405E980072D5BB /* UIViewController+Localize.m in Sources */,
+				B88C7AE01C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
+				B88C7AF01C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
+				B88C7AFC1C405E980072D5BB /* UILocalizedTextField.m in Sources */,
+				B88C7AE41C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
+				B88C7AEC1C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
 				B80431DC1C405434005661E6 /* MelodyTestUITests.m in Sources */,
+				B88C7AE81C405E980072D5BB /* UIStoryboard+Melody.m in Sources */,
+				B88C7ADC1C405E980072D5BB /* NSDictionary+Safe.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -584,7 +729,18 @@
 			files = (
 				B80431EC1C4054AE005661E6 /* AppDelegate.m in Sources */,
 				B80431ED1C4054AE005661E6 /* main.m in Sources */,
+				B88C7AFE1C405E980072D5BB /* UIView+Localize.m in Sources */,
+				B88C7ADE1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
+				B88C7AFA1C405E980072D5BB /* UILocalizedTextField.m in Sources */,
+				B88C7AE61C405E980072D5BB /* UIStoryboard+Melody.m in Sources */,
+				B88C7AE21C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
 				B88C7ABD1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
+				B88C7AF61C405E980072D5BB /* UILocalizedLabel.m in Sources */,
+				B88C7ADA1C405E980072D5BB /* NSDictionary+Safe.m in Sources */,
+				B88C7AEE1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
+				B88C7B021C405E980072D5BB /* UIViewController+Localize.m in Sources */,
+				B88C7AEA1C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
+				B88C7AF21C405E980072D5BB /* UILocalizedButton.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
