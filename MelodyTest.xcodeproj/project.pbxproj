@@ -60,6 +60,24 @@
 		B81FF1B11C4072FD00EC4BF0 /* SoundButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = B81FF1AF1C4072FD00EC4BF0 /* SoundButtonView.m */; };
 		B81FF1B21C4072FD00EC4BF0 /* SoundButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = B81FF1AF1C4072FD00EC4BF0 /* SoundButtonView.m */; };
 		B81FF1B31C4072FD00EC4BF0 /* SoundButtonView.m in Sources */ = {isa = PBXBuildFile; fileRef = B81FF1AF1C4072FD00EC4BF0 /* SoundButtonView.m */; };
+		B85272F01C45479100B18B99 /* MelodyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B85272EF1C45479100B18B99 /* MelodyView.xib */; };
+		B85272F11C45479100B18B99 /* MelodyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B85272EF1C45479100B18B99 /* MelodyView.xib */; };
+		B85272F21C45479100B18B99 /* MelodyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B85272EF1C45479100B18B99 /* MelodyView.xib */; };
+		B85272F31C45479100B18B99 /* MelodyView.xib in Resources */ = {isa = PBXBuildFile; fileRef = B85272EF1C45479100B18B99 /* MelodyView.xib */; };
+		B85272F61C45494E00B18B99 /* MelodyView.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272F51C45494E00B18B99 /* MelodyView.m */; };
+		B85272F71C45494E00B18B99 /* MelodyView.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272F51C45494E00B18B99 /* MelodyView.m */; };
+		B85272F81C45494E00B18B99 /* MelodyView.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272F51C45494E00B18B99 /* MelodyView.m */; };
+		B85272F91C45494E00B18B99 /* MelodyView.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272F51C45494E00B18B99 /* MelodyView.m */; };
+		B85272FC1C454A4900B18B99 /* Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272FB1C454A4900B18B99 /* Melody.m */; };
+		B85272FD1C454A4900B18B99 /* Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272FB1C454A4900B18B99 /* Melody.m */; };
+		B85272FE1C454A4900B18B99 /* Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272FB1C454A4900B18B99 /* Melody.m */; };
+		B85272FF1C454A4900B18B99 /* Melody.m in Sources */ = {isa = PBXBuildFile; fileRef = B85272FB1C454A4900B18B99 /* Melody.m */; };
+		B85273021C454AFB00B18B99 /* MelodiesManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B85273011C454AFB00B18B99 /* MelodiesManager.m */; };
+		B85273031C454AFB00B18B99 /* MelodiesManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B85273011C454AFB00B18B99 /* MelodiesManager.m */; };
+		B85273041C454AFB00B18B99 /* MelodiesManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B85273011C454AFB00B18B99 /* MelodiesManager.m */; };
+		B85273051C454AFB00B18B99 /* MelodiesManager.m in Sources */ = {isa = PBXBuildFile; fileRef = B85273011C454AFB00B18B99 /* MelodiesManager.m */; };
+		B85880FA1C4597A800F0909F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B85880F91C4597A800F0909F /* AVFoundation.framework */; };
+		B85880FB1C4597B000F0909F /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B85880F91C4597A800F0909F /* AVFoundation.framework */; };
 		B88C7ABC1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
 		B88C7ABD1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
 		B88C7ABE1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */; };
@@ -116,10 +134,10 @@
 		B88C7B101C4067840072D5BB /* SoundPlayButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B0E1C4067840072D5BB /* SoundPlayButton.m */; };
 		B88C7B111C4067840072D5BB /* SoundPlayButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B0E1C4067840072D5BB /* SoundPlayButton.m */; };
 		B88C7B121C4067840072D5BB /* SoundPlayButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B0E1C4067840072D5BB /* SoundPlayButton.m */; };
-		B88C7B1B1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericTableViewCell.m */; };
-		B88C7B1C1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericTableViewCell.m */; };
-		B88C7B1D1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericTableViewCell.m */; };
-		B88C7B1E1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericTableViewCell.m */; };
+		B88C7B1B1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericCollectionViewCell.m */; };
+		B88C7B1C1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericCollectionViewCell.m */; };
+		B88C7B1D1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericCollectionViewCell.m */; };
+		B88C7B1E1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B1A1C406ADF0072D5BB /* GenericCollectionViewCell.m */; };
 		B88C7B221C406E1E0072D5BB /* AbstractView.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B211C406E1E0072D5BB /* AbstractView.m */; };
 		B88C7B231C406E1E0072D5BB /* AbstractView.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B211C406E1E0072D5BB /* AbstractView.m */; };
 		B88C7B241C406E1E0072D5BB /* AbstractView.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B211C406E1E0072D5BB /* AbstractView.m */; };
@@ -132,6 +150,26 @@
 		B88C7B2F1C4070270072D5BB /* SoundClearButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B2D1C4070270072D5BB /* SoundClearButton.m */; };
 		B88C7B301C4070270072D5BB /* SoundClearButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B2D1C4070270072D5BB /* SoundClearButton.m */; };
 		B88C7B311C4070270072D5BB /* SoundClearButton.m in Sources */ = {isa = PBXBuildFile; fileRef = B88C7B2D1C4070270072D5BB /* SoundClearButton.m */; };
+		B8BC142F1C4568CF009DF303 /* MelodiesPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC142E1C4568CF009DF303 /* MelodiesPageViewController.m */; };
+		B8BC14301C4568CF009DF303 /* MelodiesPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC142E1C4568CF009DF303 /* MelodiesPageViewController.m */; };
+		B8BC14311C4568CF009DF303 /* MelodiesPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC142E1C4568CF009DF303 /* MelodiesPageViewController.m */; };
+		B8BC14321C4568CF009DF303 /* MelodiesPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC142E1C4568CF009DF303 /* MelodiesPageViewController.m */; };
+		B8BC14361C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14351C4568F9009DF303 /* MelodiesStandardPageViewController.m */; };
+		B8BC14371C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14351C4568F9009DF303 /* MelodiesStandardPageViewController.m */; };
+		B8BC14381C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14351C4568F9009DF303 /* MelodiesStandardPageViewController.m */; };
+		B8BC14391C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14351C4568F9009DF303 /* MelodiesStandardPageViewController.m */; };
+		B8BC143C1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC143B1C456B27009DF303 /* MelodiesIAPPageViewController.m */; };
+		B8BC143D1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC143B1C456B27009DF303 /* MelodiesIAPPageViewController.m */; };
+		B8BC143E1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC143B1C456B27009DF303 /* MelodiesIAPPageViewController.m */; };
+		B8BC143F1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC143B1C456B27009DF303 /* MelodiesIAPPageViewController.m */; };
+		B8BC14421C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14411C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m */; };
+		B8BC14431C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14411C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m */; };
+		B8BC14441C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14411C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m */; };
+		B8BC14451C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14411C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m */; };
+		B8BC144A1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14491C457316009DF303 /* MelodiesAbstractPageViewController.m */; };
+		B8BC144B1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14491C457316009DF303 /* MelodiesAbstractPageViewController.m */; };
+		B8BC144C1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14491C457316009DF303 /* MelodiesAbstractPageViewController.m */; };
+		B8BC144D1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B8BC14491C457316009DF303 /* MelodiesAbstractPageViewController.m */; };
 		DFB8F22923A959466D9E749D /* libPods-MelodyTest.a in Frameworks */ = {isa = PBXBuildFile; fileRef = F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */; };
 /* End PBXBuildFile section */
 
@@ -184,6 +222,14 @@
 		B80432011C4057CB005661E6 /* sound9.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = sound9.caf; sourceTree = "<group>"; };
 		B81FF1AE1C4072FD00EC4BF0 /* SoundButtonView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoundButtonView.h; sourceTree = "<group>"; };
 		B81FF1AF1C4072FD00EC4BF0 /* SoundButtonView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoundButtonView.m; sourceTree = "<group>"; };
+		B85272EF1C45479100B18B99 /* MelodyView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MelodyView.xib; sourceTree = "<group>"; };
+		B85272F41C45494E00B18B99 /* MelodyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodyView.h; sourceTree = "<group>"; };
+		B85272F51C45494E00B18B99 /* MelodyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodyView.m; sourceTree = "<group>"; };
+		B85272FA1C454A4900B18B99 /* Melody.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Melody.h; sourceTree = "<group>"; };
+		B85272FB1C454A4900B18B99 /* Melody.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Melody.m; sourceTree = "<group>"; };
+		B85273001C454AFB00B18B99 /* MelodiesManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodiesManager.h; sourceTree = "<group>"; };
+		B85273011C454AFB00B18B99 /* MelodiesManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodiesManager.m; sourceTree = "<group>"; };
+		B85880F91C4597A800F0909F /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		B88C7ABA1C405BDA0072D5BB /* MelodyRootViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodyRootViewController.h; sourceTree = "<group>"; };
 		B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodyRootViewController.m; sourceTree = "<group>"; };
 		B88C7AC11C405E980072D5BB /* NSDictionary+Safe.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+Safe.h"; sourceTree = "<group>"; };
@@ -212,14 +258,24 @@
 		B88C7B081C40676C0072D5BB /* SoundPlayButton.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SoundPlayButton.xib; sourceTree = "<group>"; };
 		B88C7B0D1C4067840072D5BB /* SoundPlayButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoundPlayButton.h; sourceTree = "<group>"; };
 		B88C7B0E1C4067840072D5BB /* SoundPlayButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoundPlayButton.m; sourceTree = "<group>"; };
-		B88C7B191C406ADF0072D5BB /* GenericTableViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GenericTableViewCell.h; sourceTree = "<group>"; };
-		B88C7B1A1C406ADF0072D5BB /* GenericTableViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GenericTableViewCell.m; sourceTree = "<group>"; };
+		B88C7B191C406ADF0072D5BB /* GenericCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GenericCollectionViewCell.h; sourceTree = "<group>"; };
+		B88C7B1A1C406ADF0072D5BB /* GenericCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GenericCollectionViewCell.m; sourceTree = "<group>"; };
 		B88C7B1F1C406B380072D5BB /* GenericViewCellProtocol.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GenericViewCellProtocol.h; sourceTree = "<group>"; };
 		B88C7B201C406E1E0072D5BB /* AbstractView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AbstractView.h; sourceTree = "<group>"; };
 		B88C7B211C406E1E0072D5BB /* AbstractView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AbstractView.m; sourceTree = "<group>"; };
 		B88C7B261C406FEC0072D5BB /* SoundClearButton.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = SoundClearButton.xib; sourceTree = "<group>"; };
 		B88C7B2C1C4070270072D5BB /* SoundClearButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SoundClearButton.h; sourceTree = "<group>"; };
 		B88C7B2D1C4070270072D5BB /* SoundClearButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SoundClearButton.m; sourceTree = "<group>"; };
+		B8BC142D1C4568CF009DF303 /* MelodiesPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodiesPageViewController.h; sourceTree = "<group>"; };
+		B8BC142E1C4568CF009DF303 /* MelodiesPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodiesPageViewController.m; sourceTree = "<group>"; };
+		B8BC14341C4568F9009DF303 /* MelodiesStandardPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodiesStandardPageViewController.h; sourceTree = "<group>"; };
+		B8BC14351C4568F9009DF303 /* MelodiesStandardPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodiesStandardPageViewController.m; sourceTree = "<group>"; };
+		B8BC143A1C456B27009DF303 /* MelodiesIAPPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodiesIAPPageViewController.h; sourceTree = "<group>"; };
+		B8BC143B1C456B27009DF303 /* MelodiesIAPPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodiesIAPPageViewController.m; sourceTree = "<group>"; };
+		B8BC14401C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodiesBinauralBeatsPageViewController.h; sourceTree = "<group>"; };
+		B8BC14411C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodiesBinauralBeatsPageViewController.m; sourceTree = "<group>"; };
+		B8BC14481C457316009DF303 /* MelodiesAbstractPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MelodiesAbstractPageViewController.h; sourceTree = "<group>"; };
+		B8BC14491C457316009DF303 /* MelodiesAbstractPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MelodiesAbstractPageViewController.m; sourceTree = "<group>"; };
 		EE3F9A45049AFB87F967B9A0 /* Pods-MelodyTest.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MelodyTest.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MelodyTest/Pods-MelodyTest.debug.xcconfig"; sourceTree = "<group>"; };
 		F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-MelodyTest.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -229,6 +285,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B85880FA1C4597A800F0909F /* AVFoundation.framework in Frameworks */,
 				DFB8F22923A959466D9E749D /* libPods-MelodyTest.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -251,6 +308,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B85880FB1C4597B000F0909F /* AVFoundation.framework in Frameworks */,
 				60EDB6D89ECF48A9B0C66A8F /* libPods-MelodyTestDebug.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -261,6 +319,7 @@
 		5E77973054EDB9F4EC987747 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				B85880F91C4597A800F0909F /* AVFoundation.framework */,
 				F1BE13BEE30856B2BC225EC1 /* libPods-MelodyTest.a */,
 				66D005C0A85F1DB05689F9B8 /* libPods-MelodyTestDebug.a */,
 			);
@@ -357,6 +416,9 @@
 		B88C7AB51C405BC00072D5BB /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				B8BC14331C4568E2009DF303 /* MelodiesPage */,
+				B8BC142D1C4568CF009DF303 /* MelodiesPageViewController.h */,
+				B8BC142E1C4568CF009DF303 /* MelodiesPageViewController.m */,
 				B88C7ABA1C405BDA0072D5BB /* MelodyRootViewController.h */,
 				B88C7ABB1C405BDA0072D5BB /* MelodyRootViewController.m */,
 			);
@@ -376,6 +438,8 @@
 		B88C7AB71C405BC00072D5BB /* Model */ = {
 			isa = PBXGroup;
 			children = (
+				B85272FA1C454A4900B18B99 /* Melody.h */,
+				B85272FB1C454A4900B18B99 /* Melody.m */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -394,6 +458,9 @@
 				B88C7B071C4066FE0072D5BB /* Cells */,
 				B88C7B201C406E1E0072D5BB /* AbstractView.h */,
 				B88C7B211C406E1E0072D5BB /* AbstractView.m */,
+				B85272EF1C45479100B18B99 /* MelodyView.xib */,
+				B85272F41C45494E00B18B99 /* MelodyView.h */,
+				B85272F51C45494E00B18B99 /* MelodyView.m */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -437,6 +504,8 @@
 		B88C7AD81C405E980072D5BB /* Singletons */ = {
 			isa = PBXGroup;
 			children = (
+				B85273001C454AFB00B18B99 /* MelodiesManager.h */,
+				B85273011C454AFB00B18B99 /* MelodiesManager.m */,
 			);
 			path = Singletons;
 			sourceTree = "<group>";
@@ -458,9 +527,9 @@
 		B88C7B071C4066FE0072D5BB /* Cells */ = {
 			isa = PBXGroup;
 			children = (
+				B88C7B191C406ADF0072D5BB /* GenericCollectionViewCell.h */,
+				B88C7B1A1C406ADF0072D5BB /* GenericCollectionViewCell.m */,
 				B88C7B1F1C406B380072D5BB /* GenericViewCellProtocol.h */,
-				B88C7B191C406ADF0072D5BB /* GenericTableViewCell.h */,
-				B88C7B1A1C406ADF0072D5BB /* GenericTableViewCell.m */,
 			);
 			path = Cells;
 			sourceTree = "<group>";
@@ -472,6 +541,21 @@
 				B81FF1AF1C4072FD00EC4BF0 /* SoundButtonView.m */,
 			);
 			name = subviews;
+			sourceTree = "<group>";
+		};
+		B8BC14331C4568E2009DF303 /* MelodiesPage */ = {
+			isa = PBXGroup;
+			children = (
+				B8BC14341C4568F9009DF303 /* MelodiesStandardPageViewController.h */,
+				B8BC14351C4568F9009DF303 /* MelodiesStandardPageViewController.m */,
+				B8BC143A1C456B27009DF303 /* MelodiesIAPPageViewController.h */,
+				B8BC143B1C456B27009DF303 /* MelodiesIAPPageViewController.m */,
+				B8BC14401C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.h */,
+				B8BC14411C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m */,
+				B8BC14481C457316009DF303 /* MelodiesAbstractPageViewController.h */,
+				B8BC14491C457316009DF303 /* MelodiesAbstractPageViewController.m */,
+			);
+			path = MelodiesPage;
 			sourceTree = "<group>";
 		};
 		CC535D45AAF85C0C2B102AF2 /* Pods */ = {
@@ -614,6 +698,7 @@
 				B88C7B091C40676C0072D5BB /* SoundPlayButton.xib in Resources */,
 				B80432121C4057CB005661E6 /* sound5.caf in Resources */,
 				B80432061C4057CB005661E6 /* sound2.caf in Resources */,
+				B85272F01C45479100B18B99 /* MelodyView.xib in Resources */,
 				B80432161C4057CB005661E6 /* sound6.caf in Resources */,
 				B804320E1C4057CB005661E6 /* sound4.caf in Resources */,
 				B80431C61C405434005661E6 /* LaunchScreen.storyboard in Resources */,
@@ -636,6 +721,7 @@
 				B80432081C4057CB005661E6 /* sound2.caf in Resources */,
 				B80432201C4057CB005661E6 /* sound8.caf in Resources */,
 				B804320C1C4057CB005661E6 /* sound3.caf in Resources */,
+				B85272F21C45479100B18B99 /* MelodyView.xib in Resources */,
 				B88C7B291C406FEC0072D5BB /* SoundClearButton.xib in Resources */,
 				B80432101C4057CB005661E6 /* sound4.caf in Resources */,
 				B804321C1C4057CB005661E6 /* sound7.caf in Resources */,
@@ -654,6 +740,7 @@
 				B80432091C4057CB005661E6 /* sound2.caf in Resources */,
 				B80432211C4057CB005661E6 /* sound8.caf in Resources */,
 				B804320D1C4057CB005661E6 /* sound3.caf in Resources */,
+				B85272F31C45479100B18B99 /* MelodyView.xib in Resources */,
 				B88C7B2A1C406FEC0072D5BB /* SoundClearButton.xib in Resources */,
 				B80432111C4057CB005661E6 /* sound4.caf in Resources */,
 				B804321D1C4057CB005661E6 /* sound7.caf in Resources */,
@@ -671,6 +758,7 @@
 				B88C7B0A1C40676C0072D5BB /* SoundPlayButton.xib in Resources */,
 				B80432131C4057CB005661E6 /* sound5.caf in Resources */,
 				B80432071C4057CB005661E6 /* sound2.caf in Resources */,
+				B85272F11C45479100B18B99 /* MelodyView.xib in Resources */,
 				B80432171C4057CB005661E6 /* sound6.caf in Resources */,
 				B804320F1C4057CB005661E6 /* sound4.caf in Resources */,
 				B80431F01C4054AE005661E6 /* LaunchScreen.storyboard in Resources */,
@@ -754,25 +842,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8BC144A1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */,
 				B88C7B2E1C4070270072D5BB /* SoundClearButton.m in Sources */,
 				B80431BB1C405434005661E6 /* AppDelegate.m in Sources */,
 				B80431B81C405434005661E6 /* main.m in Sources */,
+				B8BC143C1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */,
 				B88C7AFD1C405E980072D5BB /* UIView+Localize.m in Sources */,
 				B81FF1B01C4072FD00EC4BF0 /* SoundButtonView.m in Sources */,
 				B88C7ADD1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
 				B88C7AF91C405E980072D5BB /* UILocalizedTextField.m in Sources */,
 				B88C7AE51C405E980072D5BB /* UIStoryboard+Melody.m in Sources */,
+				B85272F61C45494E00B18B99 /* MelodyView.m in Sources */,
 				B88C7AE11C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
 				B88C7ABC1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 				B88C7AF51C405E980072D5BB /* UILocalizedLabel.m in Sources */,
 				B88C7AD91C405E980072D5BB /* NSDictionary+Safe.m in Sources */,
-				B88C7B1B1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */,
+				B88C7B1B1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */,
+				B8BC14361C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */,
 				B88C7AED1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
 				B88C7B011C405E980072D5BB /* UIViewController+Localize.m in Sources */,
 				B88C7AE91C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
 				B88C7AF11C405E980072D5BB /* UILocalizedButton.m in Sources */,
 				B88C7B221C406E1E0072D5BB /* AbstractView.m in Sources */,
 				B88C7B0F1C4067840072D5BB /* SoundPlayButton.m in Sources */,
+				B85272FC1C454A4900B18B99 /* Melody.m in Sources */,
+				B85273021C454AFB00B18B99 /* MelodiesManager.m in Sources */,
+				B8BC142F1C4568CF009DF303 /* MelodiesPageViewController.m in Sources */,
+				B8BC14421C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -781,17 +877,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				B88C7AF71C405E980072D5BB /* UILocalizedLabel.m in Sources */,
-				B88C7B1D1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */,
+				B8BC14381C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */,
+				B88C7B1D1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */,
 				B88C7B241C406E1E0072D5BB /* AbstractView.m in Sources */,
 				B88C7B111C4067840072D5BB /* SoundPlayButton.m in Sources */,
 				B88C7AF31C405E980072D5BB /* UILocalizedButton.m in Sources */,
 				B88C7ABE1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 				B88C7B301C4070270072D5BB /* SoundClearButton.m in Sources */,
+				B8BC14311C4568CF009DF303 /* MelodiesPageViewController.m in Sources */,
 				B88C7AFF1C405E980072D5BB /* UIView+Localize.m in Sources */,
 				B88C7B031C405E980072D5BB /* UIViewController+Localize.m in Sources */,
+				B85272FE1C454A4900B18B99 /* Melody.m in Sources */,
 				B88C7ADF1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
+				B8BC144C1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */,
+				B8BC14441C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */,
+				B85273041C454AFB00B18B99 /* MelodiesManager.m in Sources */,
 				B81FF1B21C4072FD00EC4BF0 /* SoundButtonView.m in Sources */,
+				B85272F81C45494E00B18B99 /* MelodyView.m in Sources */,
 				B88C7AEF1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
+				B8BC143E1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */,
 				B88C7AFB1C405E980072D5BB /* UILocalizedTextField.m in Sources */,
 				B88C7AE31C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
 				B88C7AEB1C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
@@ -806,17 +910,25 @@
 			buildActionMask = 2147483647;
 			files = (
 				B88C7AF81C405E980072D5BB /* UILocalizedLabel.m in Sources */,
-				B88C7B1E1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */,
+				B8BC14391C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */,
+				B88C7B1E1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */,
 				B88C7B251C406E1E0072D5BB /* AbstractView.m in Sources */,
 				B88C7B121C4067840072D5BB /* SoundPlayButton.m in Sources */,
 				B88C7AF41C405E980072D5BB /* UILocalizedButton.m in Sources */,
 				B88C7ABF1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 				B88C7B311C4070270072D5BB /* SoundClearButton.m in Sources */,
+				B8BC14321C4568CF009DF303 /* MelodiesPageViewController.m in Sources */,
 				B88C7B001C405E980072D5BB /* UIView+Localize.m in Sources */,
 				B88C7B041C405E980072D5BB /* UIViewController+Localize.m in Sources */,
+				B85272FF1C454A4900B18B99 /* Melody.m in Sources */,
 				B88C7AE01C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
+				B8BC144D1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */,
+				B8BC14451C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */,
+				B85273051C454AFB00B18B99 /* MelodiesManager.m in Sources */,
 				B81FF1B31C4072FD00EC4BF0 /* SoundButtonView.m in Sources */,
+				B85272F91C45494E00B18B99 /* MelodyView.m in Sources */,
 				B88C7AF01C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
+				B8BC143F1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */,
 				B88C7AFC1C405E980072D5BB /* UILocalizedTextField.m in Sources */,
 				B88C7AE41C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
 				B88C7AEC1C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
@@ -830,25 +942,33 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8BC144B1C457316009DF303 /* MelodiesAbstractPageViewController.m in Sources */,
 				B88C7B2F1C4070270072D5BB /* SoundClearButton.m in Sources */,
 				B80431EC1C4054AE005661E6 /* AppDelegate.m in Sources */,
 				B80431ED1C4054AE005661E6 /* main.m in Sources */,
+				B8BC143D1C456B27009DF303 /* MelodiesIAPPageViewController.m in Sources */,
 				B88C7AFE1C405E980072D5BB /* UIView+Localize.m in Sources */,
 				B81FF1B11C4072FD00EC4BF0 /* SoundButtonView.m in Sources */,
 				B88C7ADE1C405E980072D5BB /* UIApplication+AppVersion.m in Sources */,
 				B88C7AFA1C405E980072D5BB /* UILocalizedTextField.m in Sources */,
 				B88C7AE61C405E980072D5BB /* UIStoryboard+Melody.m in Sources */,
+				B85272F71C45494E00B18B99 /* MelodyView.m in Sources */,
 				B88C7AE21C405E980072D5BB /* UIColor+MelodyThemeColor.m in Sources */,
 				B88C7ABD1C405BDA0072D5BB /* MelodyRootViewController.m in Sources */,
 				B88C7AF61C405E980072D5BB /* UILocalizedLabel.m in Sources */,
 				B88C7ADA1C405E980072D5BB /* NSDictionary+Safe.m in Sources */,
-				B88C7B1C1C406ADF0072D5BB /* GenericTableViewCell.m in Sources */,
+				B88C7B1C1C406ADF0072D5BB /* GenericCollectionViewCell.m in Sources */,
+				B8BC14371C4568F9009DF303 /* MelodiesStandardPageViewController.m in Sources */,
 				B88C7AEE1C405E980072D5BB /* UILocalizedBarButtonItem.m in Sources */,
 				B88C7B021C405E980072D5BB /* UIViewController+Localize.m in Sources */,
 				B88C7AEA1C405E980072D5BB /* UIBarItem+Localize.m in Sources */,
 				B88C7AF21C405E980072D5BB /* UILocalizedButton.m in Sources */,
 				B88C7B231C406E1E0072D5BB /* AbstractView.m in Sources */,
 				B88C7B101C4067840072D5BB /* SoundPlayButton.m in Sources */,
+				B85272FD1C454A4900B18B99 /* Melody.m in Sources */,
+				B85273031C454AFB00B18B99 /* MelodiesManager.m in Sources */,
+				B8BC14301C4568CF009DF303 /* MelodiesPageViewController.m in Sources */,
+				B8BC14431C456B6E009DF303 /* MelodiesBinauralBeatsPageViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
