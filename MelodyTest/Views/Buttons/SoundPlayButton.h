@@ -6,8 +6,8 @@
 //  Copyright © 2016 Philippe Blondin. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
 #import "SoundButtonView.h"
+#import <UIKit/UIKit.h>
 
 typedef enum : NSUInteger {
     SoundPlayButtonStatePlay,
@@ -16,7 +16,7 @@ typedef enum : NSUInteger {
 
 @interface SoundPlayButton : UIButton
 
-@property(nonatomic, readonly) SoundPlayButtonState playButtonState;
+@property(nonatomic) SoundPlayButtonState playButtonState;
 @property(strong, nonatomic) SoundButtonView *customView;
 
 @end

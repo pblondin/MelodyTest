@@ -37,7 +37,7 @@
     [super setSelected:selected];
 
     // Toggle Play/Pause button UI
-    if (self.playButtonState == SoundPlayButtonStatePlay) {
+    if (self.selected) {
         [self.customView.buttonImageVIew setImage:[UIImage imageNamed:@"Btn_Pause"]];
         [self.customView.buttonLabel setText:@"Pause"];
     } else {
@@ -47,6 +47,14 @@
 }
 
 #pragma mark - Accessor
+
+- (void)setPlayButtonState:(SoundPlayButtonState)playButtonState {
+    if (playButtonState == SoundPlayButtonStatePlay) {
+        self.selected = NO;
+    } else {
+        self.selected = YES;
+    }
+}
 
 - (SoundPlayButtonState)playButtonState {
     return !self.selected; // Unselected == Play, Otherwise Pause
