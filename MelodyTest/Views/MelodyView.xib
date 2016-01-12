@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="MelodyView">
+            <rect key="frame" x="0.0" y="0.0" width="80" height="90"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" image="ButtonSound2" highlightedImage="ButtonSelSound2" translatesAutoresizingMaskIntoConstraints="NO" id="ZJ3-JZ-v7e">
+                    <rect key="frame" x="12" y="0.0" width="73" height="72"/>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Cavern" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AX6-JR-Elr">
+                    <rect key="frame" x="0.0" y="56" width="80" height="17"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <color key="textColor" red="1" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="2Me-Lc-g3f">
+                    <rect key="frame" x="0.0" y="0.0" width="80" height="73"/>
+                    <connections>
+                        <action selector="selectMelody:" destination="iN0-l3-epB" eventType="touchUpInside" id="lEe-XY-FG1"/>
+                    </connections>
+                </button>
+            </subviews>
+            <color key="backgroundColor" red="0.39461319930069932" green="0.76121109277972032" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+            <constraints>
+                <constraint firstItem="AX6-JR-Elr" firstAttribute="top" secondItem="2Me-Lc-g3f" secondAttribute="bottom" id="8Iq-AX-SPT"/>
+                <constraint firstAttribute="trailing" secondItem="ZJ3-JZ-v7e" secondAttribute="trailing" constant="-5" id="8fo-f6-qLu"/>
+                <constraint firstItem="AX6-JR-Elr" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="56" id="9mK-g3-Y6O"/>
+                <constraint firstAttribute="trailing" secondItem="AX6-JR-Elr" secondAttribute="trailing" id="J5d-An-Pjb"/>
+                <constraint firstItem="AX6-JR-Elr" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="JtD-Ou-V59"/>
+                <constraint firstItem="ZJ3-JZ-v7e" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="12" id="ZqC-Rm-q0B"/>
+                <constraint firstItem="2Me-Lc-g3f" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="ha1-w2-USL"/>
+                <constraint firstItem="2Me-Lc-g3f" firstAttribute="bottom" secondItem="AX6-JR-Elr" secondAttribute="bottom" id="m24-Lu-4p0"/>
+                <constraint firstAttribute="trailing" secondItem="2Me-Lc-g3f" secondAttribute="trailing" id="mut-s7-SWZ"/>
+                <constraint firstItem="2Me-Lc-g3f" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="vWB-Qm-SwH"/>
+                <constraint firstItem="ZJ3-JZ-v7e" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="vaM-GC-bAY"/>
+            </constraints>
+            <nil key="simulatedStatusBarMetrics"/>
+            <nil key="simulatedTopBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="8Iq-AX-SPT"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="melodyButton" destination="2Me-Lc-g3f" id="KaE-C2-Vor"/>
+                <outlet property="melodyImageView" destination="ZJ3-JZ-v7e" id="fnV-Df-lHe"/>
+                <outlet property="melodyLabel" destination="AX6-JR-Elr" id="G2z-QU-Rb6"/>
+            </connections>
+            <point key="canvasLocation" x="546" y="389"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="ButtonSelSound2" width="72" height="72"/>
+        <image name="ButtonSound2" width="72" height="72"/>
+    </resources>
+</document>
