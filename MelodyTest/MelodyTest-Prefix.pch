@@ -16,10 +16,12 @@
 #endif
 
 // 3rd party lib
+#import <libextobjc/EXTScope.h>
 #import <CocoaLumberjack/CocoaLumberjack.h>
 static const DDLogLevel ddLogLevel = DDLogLevelDebug;
 
 // UI theme and helper
 #import "UIColor+MelodyThemeColor.h"
+
 
 #endif /* MelodyTest_Prefix_pch */

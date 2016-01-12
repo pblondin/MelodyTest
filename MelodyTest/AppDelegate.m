@@ -57,7 +57,7 @@
     [DDLog addLogger:[DDTTYLogger sharedInstance]];
 
     // Prevent other audio to be stopped by this application
-    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategoryAmbient error:nil];
+    [[AVAudioSession sharedInstance] setCategory:AVAudioSessionCategorySoloAmbient error:nil];
 
     // Main storyboard
     return YES;
