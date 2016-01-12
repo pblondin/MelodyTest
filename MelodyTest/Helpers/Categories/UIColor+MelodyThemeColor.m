@@ -27,7 +27,7 @@
 
 // Background color
 + (UIColor *)primaryBackgroundColor {
-    return [UIColor colorFromHexString:@"#3B8176"];
+    return [UIColor colorFromHexString:@"#030F48"];
 }
 
 // Button color
